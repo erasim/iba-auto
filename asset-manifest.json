@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iba-auto/static/css/main.8bbb08e3.css",
+    "main.js": "/iba-auto/static/js/main.296448af.js",
+    "static/js/453.ba2b05e6.chunk.js": "/iba-auto/static/js/453.ba2b05e6.chunk.js",
+    "index.html": "/iba-auto/index.html",
+    "main.8bbb08e3.css.map": "/iba-auto/static/css/main.8bbb08e3.css.map",
+    "main.296448af.js.map": "/iba-auto/static/js/main.296448af.js.map",
+    "453.ba2b05e6.chunk.js.map": "/iba-auto/static/js/453.ba2b05e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bbb08e3.css",
+    "static/js/main.296448af.js"
+  ]
+}
